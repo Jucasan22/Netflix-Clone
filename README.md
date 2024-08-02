@@ -2,5 +2,4 @@ Netflix
 
 create clone using html and css 
 
-
-![Screenshot (1)](https://github.com/user-attachments/assets/7f53c855-fb0b-47d1-8b8f-7f659f1e9e5d)
+![Screenshot (18)](https://github.com/user-attachments/assets/48af0be5-cd60-471a-a9f6-b3e7b2c286e5)
